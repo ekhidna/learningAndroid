@@ -1,2 +1,2 @@
-# LearningAndroid
+# learningAndroid
 Learning Android
