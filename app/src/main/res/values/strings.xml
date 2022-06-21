@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LearningAndroid</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="editText">Edit Text</string>
+    <string name="button">Edit Button</string>
+    <string name="edit_resource">Edit resource</string>
+    <string name="text_view_2_activity">TextView</string>
+</resources>
